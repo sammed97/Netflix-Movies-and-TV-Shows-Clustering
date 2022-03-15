@@ -74,3 +74,5 @@ silhouette score 0.00708 for cluster=15 which is pretty close to earlier we calc
 2. Can apply different clustering algorithms.
 
 # Thank You !
+(Note- In case above notebook take too long to open please use this link -
+https://nbviewer.org/github/sammed97/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING/blob/main/Copy_of_NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING.ipynb )
