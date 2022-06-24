@@ -53,7 +53,7 @@ Silhouette analysis can be used to study the separation distance between the
 resulting clusters. The silhouette plot displays a measure of how close each point in one cluster is 
 to points in the neighboring clusters and thus provides a way to assess parameters like number of 
 clusters visually. This measure has a range of [-1, 1].
-We selected number of clusters as 15 which in above calculations showing 0.00708 as silhouette 
+We selected number of clusters as 15 which in above calculations showing 0.78 as silhouette 
 score
 ## 7. Conclusion
 a. In cumulative explained variance graph we got 80% of variance captured by 3000 components 
@@ -63,7 +63,7 @@ c. Calculated silhouette score for 15 no. of clusters which was showing 0.008
 d. Then we applied KMeans on our data and then we predict the labels. 
 e. We plotted word cloud for each cluster so that we can visualize the summary of each cluster. 
 f. Then we plotted average silhouette score for clusters ranging from 2 to 16, and in that we get 
-silhouette score 0.00708 for cluster=15 which is pretty close to earlier we calculated
+silhouette score 0.78 for cluster=15 which is pretty close to earlier we calculated
 ## 8. Limitations
 1. As the number of dimensions increases, a distance-based similarity measure converges to a constant value between any features.
 2. Centroids can be dragged by outliers, or outliers might get their own cluster instead of being ignored.
