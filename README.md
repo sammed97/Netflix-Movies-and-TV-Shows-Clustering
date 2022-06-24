@@ -59,7 +59,7 @@ score
 a. In cumulative explained variance graph we got 80% of variance captured by 3000 components 
 only, that’s why we selected no. of components as 3000. 
 b. We selected no. of clusters as 15 from Elbow Method. 
-c. Calculated silhouette score for 15 no. of clusters which was showing 0.008 
+c. Calculated silhouette score for 15 no. of clusters which was showing 0.8 
 d. Then we applied KMeans on our data and then we predict the labels. 
 e. We plotted word cloud for each cluster so that we can visualize the summary of each cluster. 
 f. Then we plotted average silhouette score for clusters ranging from 2 to 16, and in that we get 
